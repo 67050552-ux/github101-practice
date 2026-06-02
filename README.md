@@ -22,7 +22,7 @@ Repo นี้ใช้สำหรับสอบปฏิบัติ GitHub 1
 | Name | Team | Role | Evidence File | Issue Link |
 |---|---|---|---|---|
 | Example Student | Team 00 | Demo | [example evidence](docs/evidence/example-student.md) | - |
-| ณรงค์ชัย วงษ์สะอาด | Team 00  | Cloud / Integration Developer | Firebase Realtime Database |
+| ณรงค์ชัย วงษ์สะอาด | Team 00  | Cloud / Integration Developer |https://github.com/67050552-ux/github101-practice/blob/main/docs/evidence/67050552-narongchai.md|https://github.com/67050552-ux/github101-practice/edit/main/docs/issues/67050552_narongchai.md|
 ---
 
 ## วิธีทำ Part B: Practical Test
