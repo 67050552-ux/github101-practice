@@ -9,6 +9,8 @@
   * docs/evidence/narongchai-vongsaad.md
   * README.md
     -https://github.com/67050552-ux/github101-practice/blob/main/README.md
+*commit
+     https://github.com/67050552-ux/github101-practice/commits/main/docs/issues/67050552_narongchai.md
 
 * Blocker:
 
