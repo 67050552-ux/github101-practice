@@ -15,11 +15,11 @@ Cloud / Integration Developer
 - README.md
 https://github.com/67050552-ux/github101-practice/blob/main/README.md
 
-# commit
--https://github.com/67050552-ux/github101-practice/commits/main/docs/evidence/67050552-narongchai.md
+- commit
+https://github.com/67050552-ux/github101-practice/commits/main/docs/evidence/67050552-narongchai.md
 
-# lssue 
--https://github.com/67050552-ux/github101-practice/edit/main/docs/issues/67050552_narongchai.md
+- lssue 
+https://github.com/67050552-ux/github101-practice/edit/main/docs/issues/67050552_narongchai.md
 
 ## Reflection
 
