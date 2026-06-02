@@ -1,8 +1,8 @@
 * What I need to do:
 
-  * Update README
-  * Create evidence file
-  * Submit GitHub practice
+- [ ] Edit README
+- [ ] Add evidence file
+- [ ] Submit links
 
 * Evidence:
  - README.md
